@@ -11,7 +11,7 @@
 ## Results
 
 1. Сумма итогового бонусного накопления отображается некорректно.
-2. nameBug [Click to ISSUE]()
+2. The amount of the bonus accumulation is incorrect [Click to ISSUE](https://github.com/k2wln/java-1.2-2/issues/1)
 
 ## General recommendations
 
